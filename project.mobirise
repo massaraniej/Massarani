@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Massarani",
-    "currentPage": "inicial.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6117,7 +6117,7 @@
         }
       ]
     },
-    "inicial.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Massarani",
