@@ -67,7 +67,7 @@
     "favicon": "",
     "noImageResize": "",
     "siteUrl": "undefined",
-    "google-analytics": ""
+    "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=MassaraniEJ\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'MassaraniEJ');\r\n</script>"
   },
   "pages": {
     "contato.html": {
