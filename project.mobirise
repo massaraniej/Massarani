@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Massarani",
-    "currentPage": "captacao-da-agua-da-chuva.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -62,7 +62,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 186,
-    "versionPublish": "4.8.2",
+    "versionPublish": "4.10.3",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
