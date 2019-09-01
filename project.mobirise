@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Massarani",
-    "currentPage": "home.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2075,7 +2075,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fluxo-de-caixa-2000x1328.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -2093,7 +2093,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/gesto-de-estoque-2000x1125.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
