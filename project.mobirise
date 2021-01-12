@@ -44,8 +44,8 @@
     "versionPublish": "5.2.0",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
-    "favicon": false,
+    "publishChangesOnly": true,
+    "favicon": "@PROJECT_PATH@/assets/images/logo-atual2-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -57,7 +57,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "SITE",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
