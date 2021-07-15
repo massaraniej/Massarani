@@ -7307,6 +7307,33 @@ a {
 .cid-sfjtSgqpd6 .mbr-section-subtitle {
   color: #ffffff;
 }
+.cid-sDfPRRdViq {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #abeadc;
+}
+.cid-sDfPRRdViq img {
+  width: 120px;
+  margin: auto;
+}
+.cid-sDfPRRdViq .card {
+  transition: all 0.3s;
+  height: fit-content;
+  padding: 1rem 0;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-sDfPRRdViq .card {
+    max-width: 12.5%;
+  }
+}
+.cid-sDfPRRdViq .mbr-section-title {
+  color: #353535;
+}
+.cid-sDfPRRdViq .mbr-section-subtitle {
+  color: #ffffff;
+}
 .cid-shiWe1KTjw {
   padding-top: 4rem;
   padding-bottom: 7rem;
